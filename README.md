@@ -1,2 +1,2 @@
 # symptomsSideEffects
-The code and data to carry out the analysis presented by Yu et al. 
+The code and data to carry out the analysis presented in the paper by Huanghehui Yu BSc MSc. 
